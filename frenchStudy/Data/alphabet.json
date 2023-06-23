@@ -1,0 +1,19 @@
+{
+    "alphabet":[
+        {
+                "alphabet": "A",
+                "pronunciation": "아",
+                "example": "avion [아비옹] : 비행기"
+        },
+        {
+                "alphabet": "B",
+                "pronunciation": "베",
+                "example": "bonbon [봉봉] : 사탕"
+        },
+        {
+                "alphabet": "C",
+                "pronunciation": "쎄",
+                "example": "chat [쌰] : 고양이"
+        }
+    ]
+}
